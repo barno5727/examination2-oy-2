@@ -1,0 +1,23 @@
+footer{
+    // width: 1450%;
+    // padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 45px;
+}
+
+.footer-title{
+    background-color: #333A44
+}
+
+.footer-li{
+    gap: 50px;
+    width: 200px;
+    list-style: none;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-right: 500px;
+    color: #939CAA; 
+}
